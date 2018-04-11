@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This file is run for backend
 
-Things you may want to cover:
+Ruby on Rails used for this
 
-* Ruby version
+Make one database and table with one column name: (name :String)
 
-* System dependencies
+Table is people
 
-* Configuration
+Change the database.yml file for database, host, username, password.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check the code for more details.
